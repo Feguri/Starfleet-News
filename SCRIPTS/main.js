@@ -3,7 +3,7 @@ function redirect() {
     window.open('/C:/Users/Acer/vscode/WebDev/starfleetNews/QUARK.html');
 }
 function redirectArticle1() {
-    window.open('/C:/Users/Acer/vscode/WebDev/starfleetNews/article-1.html')
+    window.open('https://feguri.github.io/Starfleet-News/article-1')
 }
 for (let bt of bts) {
     bt.addEventListener('click', redirect);
