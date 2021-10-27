@@ -1,6 +1,6 @@
 let bts = document.getElementsByClassName('join');
 function redirect() {
-    window.open('/C:/Users/Acer/vscode/WebDev/starfleetNews/QUARK.html');
+    window.open('https://feguri.github.io/Starfleet-News/QUARK');
 }
 function redirectArticle1() {
     window.open('https://feguri.github.io/Starfleet-News/article-1')
