@@ -127,6 +127,8 @@ img {
 
 .img-1 {
     margin: 0 auto;
+    height: 241px !important;
+    width: 420px !important;
 }
 
 h1 {

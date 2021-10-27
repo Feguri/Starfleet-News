@@ -20,9 +20,18 @@ img:hover {
         height: 135px;
         margin-left: 10px !important;
     }
+    .img-1 {
+        margin: 0 auto;
+        height: 100px !important;
+        width: 200px !important;
+    }
 
     figure {
         margin: 0;
+    }
+
+    h2 {
+        margin-bottom: 60px !important;
     }
 
 }
@@ -40,8 +49,9 @@ img:hover {
 
 }
 
-@media only screen and (max-width: 390px ) {
+@media only screen and (max-width: 320px ) {
     #starfleet {
         display: none;
     }
+
 }

@@ -62,6 +62,17 @@
 
 @media only screen and (max-width: 400px ) {
 
+    logo {
+        padding-left: 10px;
+    }
+
+    p {
+        font-size: 16px;
+        line-height: 35px;
+        letter-spacing: 0.87px;
+        text-indent: 27
+    }
+
     h1 {
         font-size: 25px;
     }
