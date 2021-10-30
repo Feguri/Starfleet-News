@@ -23,11 +23,11 @@ header {
 
 main {
     border-radius: 40px;
-    width: 50%;
+    width: 40%;
     margin: 110px auto;
     background-color: #020613d4;
     border: 1px solid white;
-    padding: 30 60px;
+    padding: 30 100px;
 }
 
 aside {
@@ -177,4 +177,9 @@ p {
     #starfleet {
         display: none;
     }
+}
+
+.border {
+    border: 1px solid white;
+    border-radius: 8px;
 }

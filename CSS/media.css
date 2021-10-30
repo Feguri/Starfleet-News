@@ -44,7 +44,7 @@
     }
 
     a {
-        font-size: small;
+        font-size: .8rem;
     }
 
     .img-1 {
@@ -60,21 +60,26 @@
 }
 
 
-@media only screen and (max-width: 400px ) {
+@media only screen and (max-width: 470px ) {
 
     logo {
         padding-left: 10px;
     }
 
     p {
-        font-size: 16px;
-        line-height: 35px;
-        letter-spacing: 0.87px;
-        text-indent: 27
+        font-size: 1rem;
+        line-height: 30px;
+        letter-spacing: 0.5px;
+        text-indent: 24;
     }
 
     h1 {
         font-size: 25px;
     }
+
+    a {
+        font-size: .6rem;
+    }
+
 
 }
